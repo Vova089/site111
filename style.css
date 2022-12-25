@@ -1,0 +1,97 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    border: 5px solid blue;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+header b {
+    color: darkblue
+}
+
+header a{
+    text-decoration: none;
+    border: 2px solid aqua;
+    background-color: aqua;
+    color: black;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 1px;
+}
+
+h1 {
+    color: GREEN;
+    text-align: center;
+}
+
+footer {
+    background-color: lightgrey;
+    padding: 3px
+}
+
+footer p {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+nav a {
+    border: 3px solid black;
+    text-decoration: none;
+    border-radius: 5px;
+    margin: 35px;
+    font-size: 20px;
+    background-color: lightgrey;
+    padding: 3px
+}
+
+nav {
+    padding: 20px;
+}
+
+.a {
+    text-align: center;
+    color: blue;
+}
+
+.ab {
+    border: 3px solid red;
+    padding: 5px;
+}
+
+.ac {
+    border: 3px solid red;
+    padding: 5px;
+}
+
+.ad {
+    border: 3px solid red;
+    padding: 5px;
+}
+
+.ae {
+    border: 3px solid red;
+    padding: 5px;
+}
+
+.af {
+    font-size: 20px;
+    color: blue;
+    background-color: lightgreen;
+    border: 1px solid lightgreen;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.b {
+    color: blue;
+    text-align: center;
+}
+
+.gh {
+    border: 3px solid blue;
+    text-decoration: none;
+}
